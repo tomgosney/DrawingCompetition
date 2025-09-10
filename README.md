@@ -1,4 +1,4 @@
-**Drawing Competition **
+**Drawing Competition**
 
 Simple Python GUI application built with Tkinter for users to draw artwork and save it, along with their personal details to local files. Created to further my knowledge on creating Python GUI with Tkinter and saving files with python.
 
